@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.10.1"
+  },
+  "name": "how-to-make-calculator-with-user-input-mini-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zayan",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
